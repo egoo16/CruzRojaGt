@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout-v21/bb_bottom_bar_item_container.xml",
+        "source": "/home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/res/layout-v21/bb_bottom_bar_item_container.xml"
+    }
+]

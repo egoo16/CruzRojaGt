@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/62f7a1c140ccdc363bc03a122d343ec11b2b8090/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35ea1810c68a0bf4dbc9860f36143cfb8d50f224/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/07bd0cbcdf961f0b346aee9bd1a8a0ef05ed2d6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_670405981813b25973d8d27eb39482bc4420eb73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/aeacb85ccc6792f39c487a4d306c9c556ee605de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0240d2bd5fb3e5f3fbf947ba64d7c7d921bcdbd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/0602b07d5e377c9e8b330ea304156bc367000597/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_044a0cad81f98d2d2af1900856603909b4a8d123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/c5065807f350cc2f25483f614be60b3206c030e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5a716893e127e6d3624c9d64ea2da18c8a5da02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9cbdabba632cbf8be001cdbf34110cf42a64015">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db08059ca3d608ccb0a00a51dae44df6908f7d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb9227becc195ee802e43a3a77cd3fe25fc60da4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d69ab7fadae75efda92083737fd47cded0ce91e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/8afa7dc8e0d95b646f497db8ae3527193297aa14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5511954d4e5b4dc032bd0f993c42a087a1b6b6ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/0fc01fe45ce33d6d996c6d6bf876e8ea10d5a12e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_548f929347b514b9fc1283839ff250c5389eab34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f95d08a4d33c1bf2ffaf6c17733208c41e38840">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_420e8e61f7f09965df485aa601c59a0742fbb337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/58e4b581ddbbc86483ee74923d1f1e6195b8148c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3349c00cb827dac78b2f085b3ea80d1873ce351d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f93f3b011e75f53b33b084554a3600ec63f16384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_c0de4e2486c950f34d674c341cbb907c8b0e9701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/a3f7e9b8af0115893f1b93fe83e14c80efebbdbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_796b83b59ab38c1ef81c205fd74ed276fdd4a6f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/9fdf09f917a2808df9b9d08f0d63cf53555b941c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aae30ee14114d692fcf8945881ac311f0f36fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lotus/.android/build-cache/255f626d011e426e26735b311e4e6b02a12b5e9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_654e44a5a70f4699347dcbdf5c54e7e0be1a24fa/classes.dex" />
+    </item>
+
+</items>

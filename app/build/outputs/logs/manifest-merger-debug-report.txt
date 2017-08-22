@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/lotus/.android/build-cache/220c9a9b36d3093d8548dc3716824d44fcfec3dc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/lotus/.android/build-cache/255f626d011e426e26735b311e4e6b02a12b5e9e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/lotus/.android/build-cache/a3f7e9b8af0115893f1b93fe83e14c80efebbdbf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/lotus/.android/build-cache/9fdf09f917a2808df9b9d08f0d63cf53555b941c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] /home/lotus/.android/build-cache/58e4b581ddbbc86483ee74923d1f1e6195b8148c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/lotus/.android/build-cache/aeacb85ccc6792f39c487a4d306c9c556ee605de/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/lotus/.android/build-cache/0602b07d5e377c9e8b330ea304156bc367000597/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/lotus/.android/build-cache/0fc01fe45ce33d6d996c6d6bf876e8ea10d5a12e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/lotus/.android/build-cache/c5065807f350cc2f25483f614be60b3206c030e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/lotus/.android/build-cache/62f7a1c140ccdc363bc03a122d343ec11b2b8090/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/lotus/.android/build-cache/07bd0cbcdf961f0b346aee9bd1a8a0ef05ed2d6d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.lotus.cruzroja.view.MainActivity
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:12:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.lotus.cruzroja.view.Referencia
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:21:13-62
+	android:theme
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:20:13-44
+activity#com.lotus.cruzroja.view.ContainerActivity
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:23:19-57
+uses-sdk
+INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.roughike:bottom-bar:2.3.1] /home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/lotus/.android/build-cache/220c9a9b36d3093d8548dc3716824d44fcfec3dc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/lotus/.android/build-cache/255f626d011e426e26735b311e4e6b02a12b5e9e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/lotus/.android/build-cache/a3f7e9b8af0115893f1b93fe83e14c80efebbdbf/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /home/lotus/.android/build-cache/9fdf09f917a2808df9b9d08f0d63cf53555b941c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:24.2.0] /home/lotus/.android/build-cache/58e4b581ddbbc86483ee74923d1f1e6195b8148c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.0] /home/lotus/.android/build-cache/aeacb85ccc6792f39c487a4d306c9c556ee605de/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/lotus/.android/build-cache/0602b07d5e377c9e8b330ea304156bc367000597/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/lotus/.android/build-cache/0fc01fe45ce33d6d996c6d6bf876e8ea10d5a12e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/lotus/.android/build-cache/c5065807f350cc2f25483f614be60b3206c030e7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/lotus/.android/build-cache/8afa7dc8e0d95b646f497db8ae3527193297aa14/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/lotus/.android/build-cache/62f7a1c140ccdc363bc03a122d343ec11b2b8090/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/lotus/.android/build-cache/07bd0cbcdf961f0b346aee9bd1a8a0ef05ed2d6d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/lotus/.android/build-cache/255f626d011e426e26735b311e4e6b02a12b5e9e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/lotus/.android/build-cache/a3f7e9b8af0115893f1b93fe83e14c80efebbdbf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/lotus/.android/build-cache/9fdf09f917a2808df9b9d08f0d63cf53555b941c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/lotus/.android/build-cache/aeacb85ccc6792f39c487a4d306c9c556ee605de/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/lotus/.android/build-cache/0602b07d5e377c9e8b330ea304156bc367000597/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/lotus/.android/build-cache/0fc01fe45ce33d6d996c6d6bf876e8ea10d5a12e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/lotus/.android/build-cache/c5065807f350cc2f25483f614be60b3206c030e7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/lotus/.android/build-cache/8afa7dc8e0d95b646f497db8ae3527193297aa14/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/lotus/.android/build-cache/62f7a1c140ccdc363bc03a122d343ec11b2b8090/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/lotus/.android/build-cache/07bd0cbcdf961f0b346aee9bd1a8a0ef05ed2d6d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:26:9-47

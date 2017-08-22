@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CruzRoja</string>
+    <string name="title_activity_referencia">No se toca</string>
+    <string name="title_card">Aplicación de RCP</string>
+    <string name="subtitle_textCard_card">Técnicas principales: Verifique si hay respuesta de la persona. Sacúdala o dele palmadas suavemente...</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_voluntary">Voluntariado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

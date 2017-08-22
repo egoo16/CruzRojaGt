@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerraduis_cardview">4dp</dimen>
+    <dimen name="horizontal_activity_padding">12dp</dimen>
+    <dimen name="vertical_activity_padding">12dp</dimen>
+    <dimen name="titleSize_card">25sp</dimen>
+    <dimen name="subtitleSize_card">15sp</dimen>
+    <dimen name="bottombar_height">70dp</dimen>
+    <dimen name="marginEndTextViewSubtitle">10dp</dimen>
+
+
+</resources>

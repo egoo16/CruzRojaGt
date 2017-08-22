@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
