@@ -1,7 +1,11 @@
 package com.lotus.cruzroja.view.adapter;
 
 import android.app.Activity;
+import android.content.Intent;
+import android.os.Build;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.widget.RecyclerView;
+import android.transition.Explode;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.lotus.cruzroja.R;
+import com.lotus.cruzroja.view.DetailActivity;
 import com.lotus.cruzroja.view.model.Picture;
 
 import java.util.ArrayList;
@@ -42,6 +47,25 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
         holder.pictureCard.setImageResource(picture.getPicture());
         holder.title.setText(picture.getTitle());
         holder.subTitle.setText(picture.getSubtitle());
+
+        holder.pictureCard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(activity, DetailActivity.class);
+
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
+                {
+                    Explode explode = new Explode();
+                    explode.setDuration(1000);
+                    activity.getWindow().setExitTransition(explode);
+                    activity.startActivity(intent, ActivityOptionsCompat.makeSceneTransitionAnimation(activity,v,activity.getString(R.string.transicionName_picture)).toBundle());
+                }
+                else
+                {
+                    activity.startActivity(intent);
+                }
+            }
+        });
     }
 
     @Override

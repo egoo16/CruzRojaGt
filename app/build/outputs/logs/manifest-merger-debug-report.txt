@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManife
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:5:5-30:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/lotus/.android/build-cache/220c9a9b36d3093d8548dc3716824d44fcfec3dc/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] /home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/AndroidManifest.xml:29:5-20
@@ -63,9 +63,21 @@ ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:20:13-44
 activity#com.lotus.cruzroja.view.ContainerActivity
-ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:23:9-69
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:23:9-60
 	android:name
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:23:19-57
+activity#com.lotus.cruzroja.view.DetailActivity
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:parentActivityName
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:24:19-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:26:13-28:58
+	android:value
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:28:17-56
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:27:17-63
 uses-sdk
 INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.roughike:bottom-bar:2.3.1] /home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/AndroidManifest.xml:8:5-10:41

@@ -8,6 +8,9 @@
     <dimen name="subtitleSize_card">15sp</dimen>
     <dimen name="bottombar_height">70dp</dimen>
     <dimen name="marginEndTextViewSubtitle">10dp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="textSize_TitleDetail">25dp</dimen>
+    <dimen name="height_divider">1dp</dimen>
 
 
 </resources>

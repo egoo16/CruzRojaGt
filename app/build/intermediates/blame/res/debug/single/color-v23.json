@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",

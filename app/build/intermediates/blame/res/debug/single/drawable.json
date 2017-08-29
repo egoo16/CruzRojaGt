@@ -88,12 +88,12 @@
         "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/drawable/notification_bg_low.xml"
-    },
-    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
         "source": "/home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",

@@ -31,6 +31,13 @@
             android:label="@string/title_activity_referencia"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.lotus.cruzroja.view.ContainerActivity" />
+        <activity
+            android:name="com.lotus.cruzroja.view.DetailActivity"
+            android:parentActivityName="com.lotus.cruzroja.view.ContainerActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ContainerActivity" />
+        </activity>
     </application>
 
 </manifest>
