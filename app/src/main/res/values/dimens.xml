@@ -1,6 +1,6 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="height_cardview">150dp</dimen>
     <dimen name="cornerraduis_cardview">4dp</dimen>
     <dimen name="horizontal_activity_padding">12dp</dimen>
     <dimen name="vertical_activity_padding">12dp</dimen>
@@ -8,9 +8,10 @@
     <dimen name="subtitleSize_card">15sp</dimen>
     <dimen name="bottombar_height">70dp</dimen>
     <dimen name="marginEndTextViewSubtitle">10dp</dimen>
-    <dimen name="appbarlayout_height">256dp</dimen>
-    <dimen name="textSize_TitleDetail">25dp</dimen>
+    <dimen name="appbarlayout_height">200dp</dimen>
+    <dimen name="textSize_TitleDetail">25sp</dimen>
     <dimen name="height_divider">1dp</dimen>
+    <dimen name="textSize_Title2">15sp</dimen>
 
 
 </resources>

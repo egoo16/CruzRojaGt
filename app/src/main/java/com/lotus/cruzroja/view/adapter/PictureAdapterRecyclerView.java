@@ -14,6 +14,7 @@ import android.widget.TextView;
 
 import com.lotus.cruzroja.R;
 import com.lotus.cruzroja.view.DetailActivity;
+import com.lotus.cruzroja.view.Lesson1Activity;
 import com.lotus.cruzroja.view.model.Picture;
 
 import java.util.ArrayList;
@@ -42,7 +43,7 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
     }
 
     @Override
-    public void onBindViewHolder(PictureViewHolder holder, int position) {
+    public void onBindViewHolder(PictureViewHolder holder, final int position) {
         Picture picture = pictures.get(position);
         holder.pictureCard.setImageResource(picture.getPicture());
         holder.title.setText(picture.getTitle());
@@ -51,21 +52,51 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
         holder.pictureCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(activity, DetailActivity.class);
 
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
-                {
-                    Explode explode = new Explode();
-                    explode.setDuration(1000);
-                    activity.getWindow().setExitTransition(explode);
-                    activity.startActivity(intent, ActivityOptionsCompat.makeSceneTransitionAnimation(activity,v,activity.getString(R.string.transicionName_picture)).toBundle());
+                Intent intent ;
+                switch (position){
+                    case 0:
+                        intent = new Intent(activity, Lesson1Activity.class);
+                        LanzarAPP(intent,v);
+                        break;
+                    case 1:
+                        intent = new Intent(activity, DetailActivity.class);
+                        LanzarAPP(intent,v);
+                        break;
+                   /* case 2:
+                        break;
+                    case 3:
+                        break;
+                    case 4:
+                        break;
+                    case 5:
+                        break;
+                    case 6:
+                        break;
+                    case 7:
+                        break;*/
                 }
-                else
-                {
-                    activity.startActivity(intent);
-                }
+
+
             }
         });
+    }
+
+    public void LanzarAPP(Intent intent, View v)
+    {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
+        {
+            Explode explode = new Explode();
+            explode.setDuration(1000);
+            activity.getWindow().setExitTransition(explode);
+            activity.startActivity(intent,
+                    ActivityOptionsCompat.makeSceneTransitionAnimation(activity,v,activity.getString(R.string.transicionName_picture))
+                            .toBundle());
+        }
+        else
+        {
+            activity.startActivity(intent);
+        }
     }
 
     @Override

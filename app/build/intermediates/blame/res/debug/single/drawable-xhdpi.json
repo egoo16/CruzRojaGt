@@ -4,6 +4,10 @@
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/ic_cross.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/viasaeras.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/viasaeras.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/salud03.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/salud03.png"
     },
@@ -12,12 +16,36 @@
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/ic_fireman.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/estadoconciencia.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/estadoconciencia.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/primerosauxilios.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/primerosauxilios.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/equipoproteccion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/equipoproteccion.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/hemorragia.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/hemorragia.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/salud02.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/salud02.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/a2.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/a2.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/rcp.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/rcp.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/l1img01.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/l1img01.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/prueba.png",
@@ -26,6 +54,10 @@
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/img2.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/img2.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/circulacion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/circulacion.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/salud01.png",
@@ -42,5 +74,9 @@
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/crgg.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/crgg.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xhdpi/buenaventilacion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xhdpi/buenaventilacion.png"
     }
 ]

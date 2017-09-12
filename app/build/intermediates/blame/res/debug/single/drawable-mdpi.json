@@ -8,12 +8,20 @@
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/crgg.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/buenaventilacion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/buenaventilacion.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/img2.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/img2.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_fireman.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/ic_fireman.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/hemorragia.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/hemorragia.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/rcp.png",
@@ -32,15 +40,43 @@
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/prueba.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/a2.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/a2.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/salud01.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/salud01.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/circulacion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/circulacion.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/viasaeras.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/viasaeras.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/equipoproteccion.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/equipoproteccion.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/plus.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/plus.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/l1img01.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/l1img01.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/estadoconciencia.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/estadoconciencia.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/salud02.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/salud02.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/primerosauxilios.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/primerosauxilios.png"
     }
 ]

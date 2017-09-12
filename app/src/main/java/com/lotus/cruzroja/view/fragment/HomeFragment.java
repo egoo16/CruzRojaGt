@@ -52,7 +52,7 @@ public class HomeFragment extends Fragment {
     public ArrayList<Picture> buidPictures()
     {
         ArrayList<Picture> pictures = new ArrayList<>();
-        pictures.add(new Picture(R.drawable.salud01,"Lección 1","Evaluación Inicial"));
+        pictures.add(new Picture(R.drawable.primerosauxilios,"Lección 1","Evaluación Inicial"));
         pictures.add(new Picture(R.drawable.salud02,"Lección 2","Reanimación Cardiopulmonar (RCP)"));
         pictures.add(new Picture(R.drawable.salud03,"Lección 3","Maniobra de atragantamiento con compresiones abdominales"));
         pictures.add(new Picture(R.drawable.salud04,"Lección 4","Heridas y hemorragias"));
