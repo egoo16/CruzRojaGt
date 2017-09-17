@@ -99,4 +99,35 @@
         En la evaluación inicial se debe de controlar todo problema que amenace la vida del paciente a corto plazo.
         En este programa corregimos cada problema que se encuentre para garantizar la vida del paciente.\n\n\n\n</string>
 
+    <!-- TODO: Lesson2 -->
+    <string name="Lesson2">Reanimación Cardiopulmonar (RCP)</string>
+    <string name="L2T1"><b>Paro cardiorrespiratorio:</b></string>
+    <string name="paroCar">Se manifiesta cuando el corazón y la respiración se detienen, puede presentarse
+        súbitamente o por un periodo de respiración y circulación deficiente a causa de alguna enfermedad
+        o trauma. \n\n La RCP es la combinación de dos métodos de reanimación:</string>
+    <string name="L2T2">\n\n<b>Signos de un paro Cardiorrespiratorio y acciones inmediatas</b></string>
+    <string name="L2T3">\n<b>Inconciencia</b></string>
+    <string name="L2T4">Ausencia de respiración:</string>
+    <string name="viaaerea"><b>A</b> = Abrir la vía aérea \n</string>
+    <string name="ausenciaRespiracion">\n<b>B</b> = Ausencia de respiración:\n</string>
+    <string name="MES"><b>M</b>iro \t <b>E</b>scucho \t <b>S</b>iento</string>
+    <string name="AHA">\nLa Asociación Americana del Corazón (AHA por sus siglas en inglés), recomienda que si una persona está inconsciente, no respira y hay ausencia de pulso, hay que aplicar el método:</string>
+    <string name="CAB"><b>C-A-B</b></string>
+    <string name="ejecuciondelaManiobra"><b>Ejecución de la maniobra:</b>\nSi la persona está inconsciente, no tiene respiración y no tiene pulso, administre:\n \t<b>30 compresiones, 2 ventilaciones, durante 5 ciclos.</b></string>
+    <string name="ManiobraRCP"><b>Maniobra de RCP con uno y dos reanimadores</b>\n  -Adulto 30 C. -2V. - 5C. \n  -Niño 30 C. -2V. -5C.</string>
+    <string name="ManiobraRCPLactante"><b>Maniobra de RCP con uno y dos reanimadores –LACTANTE- </b>\nUn reanimador o Lactante \n\t  -30C. -2V. -5C. \nDos reanimadores o Lactante \n\t  -15C. -2V. -10 C.</string>
+    <string name="PuntoDeCompresionAdulto"><b>Punto de compresión en adulto: </b>\nSi la persona no tiene respiración, apoye el talón de la mano, dos dedos por encima del apéndice xifoides o mitad inferior del esternón, para realizar compresiones torácicas.\n</string>
+    <string name="compresionLactante"><b>Punto de compresión en Lactante: </b>\nSi el lactante no tiene respiración, apoye dos dedos al centro y debajo de la línea intermamaria, para realizar compresiones torácicas.\n</string>
+    <string name="maniobraRCP2">\n\t -Profundidad de 6 cm. \n\t -Permita que se re- expanda el tórax. Con una frecuencia de 100 a 120 por minuto.</string>
+    <string name="maniobraRCP3">\nUtilice únicamente el talón de la mano para hacer las compresiones torácicas.</string>
+    <string name="posicionCorrectaTitle">\nPosición correcta:</string>
+    <string name="ventilaciones"><b>Ventilaciones:</b>\n • Deben ser lentas y profundas que duren un (1) segundo, sellando las fosas nasales y utilizando un dispositivo que lo proteja.\n • Luego de dar la primera ventilación debe esperar un (1) segundo para que el aire ingresado salga.\n • La segunda ventilación será igual, con la diferencia que al finalizar deberá iniciar inmediatamente con las compresiones.</string>
+    <string name="ManiobraInadecuadaTitle"><b>Maniobra inadecuada de Reanimación Cardiopulmonar (RCP):</b></string>
+    <string name="ManiobraInadecuada">•El paciente no está sobre una superficie dura. \n•No se ejecuta una adecuada extensión de la cabeza - elevación mandibular. \n•Sello inadecuado sobre la boca del paciente. \n•Las fosas nasales del paciente no están oprimidas y la boca del paciente no está lo suficientemente abierta durante la ventilación boca a boca.</string>
+    <string name="terminarRCP"><b>Cuando podemos terminar la Reanimación Cardiopulmonar (RCP): </b>\nUna vez iniciada la RCP debe mantenerse hasta que: \n\t1. Se inicia la respiración y pulso espontáneamente. \n\t2. Personal igual o más capacitado que usted lo releva. \n\t3. Usted se encuentra exhausto que ya no puede continuar con el procedimiento. \n\t4. Existe un médico que declare legalmente fallecida a la persona.</string>
+    <string name="CuandoNoDarRCPTitle"><b>Cuando no dar Reanimación Cardiopulmonar:</b></string>
+    <string name="CuandoNoDarRCP">•Cuando existen signos obvios de muerte: \n\t–Rigor Mortis (aparece después de 4 a 6 horas después de que una persona ha fallecido) Rigidez muscular característica de los cadáveres. \n\t– Manchas de Lividez (Alteración en la que aparece una coloración rojiza o azulada debido a la congestión venosa. \n\t– Decapitación. \n•Orden de NO RCP. (Documento médico-legal).</string>
+    <string name="PosicionDeRecuperacionTitle"><b>Posición de Recuperación:</b></string>
+
+
 </resources>

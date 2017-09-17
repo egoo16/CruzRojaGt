@@ -23,7 +23,7 @@
             <ImageView
                 android:id="@+id/imageHeader"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/height_cardview"
+                android:layout_height="match_parent"
                 android:scaleType="centerCrop"
                 android:background="@drawable/salud01"
                 app:layout_collapseMode="parallax"

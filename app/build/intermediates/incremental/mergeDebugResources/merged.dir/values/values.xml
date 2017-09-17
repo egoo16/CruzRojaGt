@@ -596,13 +596,29 @@
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="AHA">\nLa Asociación Americana del Corazón (AHA por sus siglas en inglés), recomienda que si una persona está inconsciente, no respira y hay ausencia de pulso, hay que aplicar el método:</string>
+    <string name="CAB"><b>C-A-B</b></string>
+    <string name="CuandoNoDarRCP">•Cuando existen signos obvios de muerte: \n\t–Rigor Mortis (aparece después de 4 a 6 horas después de que una persona ha fallecido) Rigidez muscular característica de los cadáveres. \n\t– Manchas de Lividez (Alteración en la que aparece una coloración rojiza o azulada debido a la congestión venosa. \n\t– Decapitación. \n•Orden de NO RCP. (Documento médico-legal).</string>
+    <string name="CuandoNoDarRCPTitle"><b>Cuando no dar Reanimación Cardiopulmonar:</b></string>
     <string name="L1T1"><b>¿Qué son Primeros Auxilios?</b></string>
     <string name="L1T2">Procedimiento para la evaluación inicial</string>
     <string name="L1T3">ABC de la vida</string>
+    <string name="L2T1"><b>Paro cardiorrespiratorio:</b></string>
+    <string name="L2T2">\n\n<b>Signos de un paro Cardiorrespiratorio y acciones inmediatas</b></string>
+    <string name="L2T3">\n<b>Inconciencia</b></string>
+    <string name="L2T4">Ausencia de respiración:</string>
     <string name="Lesson1">Evaluación Inicial</string>
+    <string name="Lesson2">Reanimación Cardiopulmonar (RCP)</string>
+    <string name="MES"><b>M</b>iro \t <b>E</b>scucho \t <b>S</b>iento</string>
+    <string name="ManiobraInadecuada">•El paciente no está sobre una superficie dura. \n•No se ejecuta una adecuada extensión de la cabeza - elevación mandibular. \n•Sello inadecuado sobre la boca del paciente. \n•Las fosas nasales del paciente no están oprimidas y la boca del paciente no está lo suficientemente abierta durante la ventilación boca a boca.</string>
+    <string name="ManiobraInadecuadaTitle"><b>Maniobra inadecuada de Reanimación Cardiopulmonar (RCP):</b></string>
+    <string name="ManiobraRCP"><b>Maniobra de RCP con uno y dos reanimadores</b>\n  -Adulto 30 C. -2V. - 5C. \n  -Niño 30 C. -2V. -5C.</string>
+    <string name="ManiobraRCPLactante"><b>Maniobra de RCP con uno y dos reanimadores –LACTANTE- </b>\nUn reanimador o Lactante \n\t  -30C. -2V. -5C. \nDos reanimadores o Lactante \n\t  -15C. -2V. -10 C.</string>
+    <string name="PosicionDeRecuperacionTitle"><b>Posición de Recuperación:</b></string>
     <string name="PrimerosAuxilios">Primeros Auxilios son los procedimientos y técnicas que se aplican
         para dar ayuda inmediata, temporal y eficaz a una persona que ha sido víctima de un accidente
         o enfermedad repentina, antes de ser atendida por personal más especializado.</string>
+    <string name="PuntoDeCompresionAdulto"><b>Punto de compresión en adulto: </b>\nSi la persona no tiene respiración, apoye el talón de la mano, dos dedos por encima del apéndice xifoides o mitad inferior del esternón, para realizar compresiones torácicas.\n</string>
     <string name="St1T1">Abrir vías aéreas</string>
     <string name="St2T1">Buena Ventilación\n </string>
     <string name="St3T1">Circulación \n </string>
@@ -643,6 +659,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">CruzRoja</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="ausenciaRespiracion">\n<b>B</b> = Ausencia de respiración:\n</string>
     <string name="b">B-</string>
     <string name="b1"><b>M- </b> Mirar (EL tórax) \n
                         <b>E- </b> Escuchar (La respiración) \n
@@ -651,6 +668,8 @@
     <string name="c">C-</string>
     <string name="c1">Detección de pulso en la región de la arteria carótida durante 10 segundos.</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="compresionLactante"><b>Punto de compresión en Lactante: </b>\nSi el lactante no tiene respiración, apoye dos dedos al centro y debajo de la línea intermamaria, para realizar compresiones torácicas.\n</string>
+    <string name="ejecuciondelaManiobra"><b>Ejecución de la maniobra:</b>\nSi la persona está inconsciente, no tiene respiración y no tiene pulso, administre:\n \t<b>30 compresiones, 2 ventilaciones, durante 5 ciclos.</b></string>
     <string name="equipoProteccion"><b>Equipo de protección personal:</b>\n
         Guantes\n
         Lentes\n
@@ -668,11 +687,17 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hemorragias"><b>\n Detección de hemorragias:</b>\n\n
         Detectar cualquier hemorragia en una inspección realizada de cabeza a pies.</string>
+    <string name="maniobraRCP2">\n\t -Profundidad de 6 cm. \n\t -Permita que se re- expanda el tórax. Con una frecuencia de 100 a 120 por minuto.</string>
+    <string name="maniobraRCP3">\nUtilice únicamente el talón de la mano para hacer las compresiones torácicas.</string>
+    <string name="paroCar">Se manifiesta cuando el corazón y la respiración se detienen, puede presentarse
+        súbitamente o por un periodo de respiración y circulación deficiente a causa de alguna enfermedad
+        o trauma. \n\n La RCP es la combinación de dos métodos de reanimación:</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="posicionCorrectaTitle">\nPosición correcta:</string>
     <string name="preguntas"><b>¿Yo como primera respuesta frente a un accidente?</b>\n ¿ Qué debo saber?\n ¿Qué puedo hacer?\n ¿Qué no debo hacer?\n\n <b>Prioridades de atención:</b>\n 1-Mantener la calma\n 2-Activar la cadena de sobrevivencia\n 3-Evaluar seguridad de la escena\n 4-Cuidar nuestra seguridad\n\n
 
         <b>Cadena de sobrevivencia:</b>\n
@@ -723,9 +748,12 @@
     <string name="subtitle_textCard_card">ellips</string>
     <string name="tab_home">Home</string>
     <string name="tab_voluntary">Voluntariado</string>
+    <string name="terminarRCP"><b>Cuando podemos terminar la Reanimación Cardiopulmonar (RCP): </b>\nUna vez iniciada la RCP debe mantenerse hasta que: \n\t1. Se inicia la respiración y pulso espontáneamente. \n\t2. Personal igual o más capacitado que usted lo releva. \n\t3. Usted se encuentra exhausto que ya no puede continuar con el procedimiento. \n\t4. Existe un médico que declare legalmente fallecida a la persona.</string>
     <string name="title_activity_referencia">No se toca</string>
     <string name="title_card">Aplicación de RCP</string>
     <string name="transicionName_picture">transicionnamepicture</string>
+    <string name="ventilaciones"><b>Ventilaciones:</b>\n • Deben ser lentas y profundas que duren un (1) segundo, sellando las fosas nasales y utilizando un dispositivo que lo proteja.\n • Luego de dar la primera ventilación debe esperar un (1) segundo para que el aire ingresado salga.\n • La segunda ventilación será igual, con la diferencia que al finalizar deberá iniciar inmediatamente con las compresiones.</string>
+    <string name="viaaerea"><b>A</b> = Abrir la vía aérea \n</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -735,11 +763,10 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar">

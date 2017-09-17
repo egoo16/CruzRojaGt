@@ -75,7 +75,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/PrimerosAuxilios"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:paddingRight="@dimen/horizontal_activity_padding"/>
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -265,7 +266,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/evaluacionI"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:paddingRight="@dimen/horizontal_activity_padding"/>
+
 
         </LinearLayout>
 
