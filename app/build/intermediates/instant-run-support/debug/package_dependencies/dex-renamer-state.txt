@@ -1,4 +1,4 @@
-#Sun Aug 27 13:50:25 CST 2017
+#Sun Sep 17 19:43:01 CST 2017
 file.2=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d69ab7fadae75efda92083737fd47cded0ce91e9/classes.dex
 base.2=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d69ab7fadae75efda92083737fd47cded0ce91e9
 file.1=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3349c00cb827dac78b2f085b3ea80d1873ce351d/classes.dex

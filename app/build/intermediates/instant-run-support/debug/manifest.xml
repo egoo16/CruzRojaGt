@@ -52,6 +52,13 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".view.ContainerActivity" />
         </activity>
+        <activity
+            android:name="com.lotus.cruzroja.view.Lesson3Activity"
+            android:parentActivityName="com.lotus.cruzroja.view.ContainerActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ContainerActivity" />
+        </activity>
 
         <service
             android:name="com.android.tools.fd.runtime.InstantRunService"

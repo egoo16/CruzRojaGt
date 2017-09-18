@@ -14,29 +14,21 @@
     <!-- TODO: Lesson1 -->
     <string name="Lesson1">Evaluación Inicial</string>
     <string name="L1T1"><b>¿Qué son Primeros Auxilios?</b></string>
-    <string name="PrimerosAuxilios">Primeros Auxilios son los procedimientos y técnicas que se aplican
-        para dar ayuda inmediata, temporal y eficaz a una persona que ha sido víctima de un accidente
-        o enfermedad repentina, antes de ser atendida por personal más especializado.</string>
-
+    <string name="PrimerosAuxilios">Primeros Auxilios son los procedimientos y técnicas que se aplican para dar ayuda inmediata, temporal y eficaz a una persona que ha sido víctima de un accidente o enfermedad repentina, antes de ser atendida por personal más especializado.</string>
     <string name="preguntas"><b>¿Yo como primera respuesta frente a un accidente?</b>\n ¿ Qué debo saber?\n ¿Qué puedo hacer?\n ¿Qué no debo hacer?\n\n <b>Prioridades de atención:</b>\n 1-Mantener la calma\n 2-Activar la cadena de sobrevivencia\n 3-Evaluar seguridad de la escena\n 4-Cuidar nuestra seguridad\n\n
-
         <b>Cadena de sobrevivencia:</b>\n
         1-Reconocimiento inmediato y activación del sistema médico de emergencias (S.M.E.).\n
         2-Brindar cuidados básicos o reanimación cardiopulmonar temprana (RCP).\n
         3-Rápida desfibrilación.\n
         4-Soporte vital avanzado efectivo.\n
         5-Cuidados específicos en un centro hospitalario.\n\n
-
         <b>Cadena de la sobrevivencia pediátrica:</b>\n
         1.Prevenir.\n
         2.Soporte básico de vida (RCP precoz o RCP inmediata).\n
         3.Después de dos minutos continuos de RCP alerte al Sistema Médico de Emergencia.\n
         4.Soporte vital Avanzado.\n
         5.Cuidados post paro en un centro hospitalario.\n</string>
-    <string name="equipoProteccion"><b>Equipo de protección personal:</b>\n
-        Guantes\n
-        Lentes\n
-        Mascarilla\n</string>
+    <string name="equipoProteccion"><b>Equipo de protección personal:</b> \nGuantes \nLentes \nMascarilla \n</string>
     <string name="evaluacion">\n<b> Evaluación de la escena: </b> \n
         Fuentes de información para realizar la evaluación inicial:\n\n
         \t\t- La escena por sí misma.\n
@@ -68,33 +60,24 @@
         1-Estado de conciencia\n
         2-Respiración\n
         3-Circulación\n
-        4-Hemorragias\n
-    </string>
+        4-Hemorragias\n</string>
 
     <string name="sem">\n<b>Active el Sistema de Emergencias Médicas (S.E.M.)</b>\n
         Cuando evalúe a un paciente, ya sea que esté consciente, inconsciente o su estado es grave, pida inmediatamente una ambulancia o indíquele a alguna de las personas presentes en el lugar que por favor la solicite.\n\n
         <b>Proceso para la evaluación inicial: </b>\n
-        Para la ejecución de la evaluación inicial comenzaremos con el reconocimiento del:\n\n
-    </string>
+        Para la ejecución de la evaluación inicial comenzaremos con el reconocimiento del:\n\n</string>
     <string name="L1T3">ABC de la vida</string>
     <string name="a">A-</string>
     <string name="St1T1">Abrir vías aéreas</string>
-    <string name="a1">\n <b> Utilizando estas dos técnicas: </b> \n
-        1- Extensión de la cabeza y elevación del mentón (persona no lesionada).</string>
+    <string name="a1">\n <b> Utilizando estas dos técnicas: </b> \n1- Extensión de la cabeza y elevación del mentón (persona no lesionada).</string>
     <string name="a2">\n 2- Empuje mandibular (esta técnica se utiliza en caso de que se sospeche de lesión o trauma cervical). </string>
-
-
     <string name="b">B-</string>
     <string name="St2T1">Buena Ventilación\n </string>
-    <string name="b1"><b>M- </b> Mirar (EL tórax) \n
-                        <b>E- </b> Escuchar (La respiración) \n
-                        <b>S- </b> Sentir (La salida de aire) \n\n\n En un tiempo de 8 a 5 segundos.</string>
-
+    <string name="b1"><b>M- </b> Mirar (EL tórax) \n<b>E- </b> Escuchar (La respiración) \n<b>S- </b> Sentir (La salida de aire) \n\n\n En un tiempo de 8 a 5 segundos.</string>
     <string name="c">C-</string>
     <string name="St3T1">Circulación \n </string>
     <string name="c1">Detección de pulso en la región de la arteria carótida durante 10 segundos.</string>
-    <string name="hemorragias"><b>\n Detección de hemorragias:</b>\n\n
-        Detectar cualquier hemorragia en una inspección realizada de cabeza a pies.</string>
+    <string name="hemorragias"><b>\n Detección de hemorragias:</b>\n\nDetectar cualquier hemorragia en una inspección realizada de cabeza a pies.</string>
     <string name="evaluacionI"><b>\n\nEvaluación Inicial:</b>\n\n
         En la evaluación inicial se debe de controlar todo problema que amenace la vida del paciente a corto plazo.
         En este programa corregimos cada problema que se encuentre para garantizar la vida del paciente.\n\n\n\n</string>
@@ -128,6 +111,17 @@
     <string name="CuandoNoDarRCPTitle"><b>Cuando no dar Reanimación Cardiopulmonar:</b></string>
     <string name="CuandoNoDarRCP">•Cuando existen signos obvios de muerte: \n\t–Rigor Mortis (aparece después de 4 a 6 horas después de que una persona ha fallecido) Rigidez muscular característica de los cadáveres. \n\t– Manchas de Lividez (Alteración en la que aparece una coloración rojiza o azulada debido a la congestión venosa. \n\t– Decapitación. \n•Orden de NO RCP. (Documento médico-legal).</string>
     <string name="PosicionDeRecuperacionTitle"><b>Posición de Recuperación:</b></string>
+
+    <!-- TODO: Lesson3 -->
+    <string name="Lesson3">Maniobra de atragantamiento con compresiones abdominales</string>
+    <string name="L3T1"><b>Atragantamiento:</b></string>
+    <string name="atragantamiento">El atragantamiento se produce cuando un cuerpo extraño obstruye el paso de aire hacia los pulmones. El atragantamiento puede ser de dos tipos:</string>
+    <string name="TiposAtragantamiento"><b>Parcial y total</b> \n<b>1. Parcial:</b> se manifiesta cuando el paso de aire está disminuido. \n<b>2. Total: </b>en la que no existe paso de aire.</string>
+    <string name="Causas"><b>Causa de un atragantamiento: </b>\n-Obstrucción por la lengua. \n-Obstrucción por cuerpo extraño, (plásticos, comida, etc.).</string>
+    <string name="Total"><b>Total: </b>\nCuando NO hay paso de aire, el paciente es incapaz de hablar o respirar. El paciente mostrará la señal universal de asfixia, en donde la víctima se toma el cuello y muestra signos de angustia.</string>
+    <string name="procedimientoAtragantamientoTitle"><b>Procedimiento:</b></string>
+    <string name="procedimientoAtragantamiento">-Colóquese detrás de la persona y ofrezca su ayuda. \n -Posicione sus piernas una delante de la otra. \n -Indique al paciente que se incline ligeramente hacia adelante. \n -Indique al paciente que tosa e insista. \n -Coloque las manos en el abdomen de la víctima e inicie las compresiones abdominales. \n\nSe debe apoyar el puño con el pulgar sobre el abdomen, a nivel de la boca del estómago. \n\nSujete el puño con la otra mano y aplique una serie de compresiones rápidas hacia arriba. \nContinúe las compresiones abdominales hasta que se expulse el cuerpo extraño o el paciente pierda la conciencia.</string>
+    <string name="procedimientoAtragantamientoPart2">\n-Si la víctima deja de responder llame inmediatamente al número de emergencia local, luego inicie Reanimación cardiopulmonar. \n-Si ve el objeto que obstruye el paso de aire extráigalo.\n\n\n</string>
 
 
 </resources>
