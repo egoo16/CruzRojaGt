@@ -11,12 +11,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.lotus.cruzroja.R;
 import com.lotus.cruzroja.view.DetailActivity;
 import com.lotus.cruzroja.view.Lesson1Activity;
 import com.lotus.cruzroja.view.Lesson2Activity;
 import com.lotus.cruzroja.view.Lesson3Activity;
+import com.lotus.cruzroja.view.Lesson4Activity;
 import com.lotus.cruzroja.view.model.Picture;
 
 import java.util.ArrayList;
@@ -69,11 +69,11 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
                         intent = new Intent(activity, Lesson3Activity.class);
                         LanzarAPP(intent,v);
                         break;
-                   /* case 3:
-                        intent = new Intent(activity, Lesson2Activity.class);
+                    case 3:
+                        intent = new Intent(activity, Lesson4Activity.class);
                         LanzarAPP(intent,v);
                         break;
-                    case 4:
+                   /* case 4:
                         intent = new Intent(activity, Lesson2Activity.class);
                         LanzarAPP(intent,v);
                         break;

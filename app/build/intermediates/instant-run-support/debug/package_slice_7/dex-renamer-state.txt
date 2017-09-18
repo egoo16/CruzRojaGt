@@ -1,4 +1,4 @@
-#Sun Sep 17 20:12:50 CST 2017
+#Sun Sep 17 23:54:03 CST 2017
 base.0=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
 file.0=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

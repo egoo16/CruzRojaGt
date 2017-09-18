@@ -123,5 +123,17 @@
     <string name="procedimientoAtragantamiento">-Colóquese detrás de la persona y ofrezca su ayuda. \n -Posicione sus piernas una delante de la otra. \n -Indique al paciente que se incline ligeramente hacia adelante. \n -Indique al paciente que tosa e insista. \n -Coloque las manos en el abdomen de la víctima e inicie las compresiones abdominales. \n\nSe debe apoyar el puño con el pulgar sobre el abdomen, a nivel de la boca del estómago. \n\nSujete el puño con la otra mano y aplique una serie de compresiones rápidas hacia arriba. \nContinúe las compresiones abdominales hasta que se expulse el cuerpo extraño o el paciente pierda la conciencia.</string>
     <string name="procedimientoAtragantamientoPart2">\n-Si la víctima deja de responder llame inmediatamente al número de emergencia local, luego inicie Reanimación cardiopulmonar. \n-Si ve el objeto que obstruye el paso de aire extráigalo.\n\n\n</string>
 
+    <!-- TODO: Lesson4 -->
+
+    <string name="Lesson4">Heridas y hemorragias</string>
+    <string name="L4T1"><b>Hemorragias:</b></string>
+    <string name="hemorragiasLesson4">Es la salida de sangre de sus canales naturales entre ellos podemos mencionar: \n\t• ARTERIAL \n\t• VENOSA \n\t• CAPILAR</string>
+    <string name="ReconocimientoDeHemorragias"><b>Reconocimiento de tipos de hemorragias:</b></string>
+    <string name="ReconocimientoDeHemorragiasText"><b>Arterial: </b>color rojo brillante, su salida es intermitente, rápida y abundante. \n<b>Venosa: </b>color opaca, sin brillo, su salida es continua. \n<b>Capilar: </b>sangre de intercambio, sin movimiento, parece sudoración.</string>
+    <string name="ClasesDeHemorragiasTitle"><b>Clases de hemorragias:</b></string>
+    <string name="ClasesDeHemorragias">Externa e interna Tipos de Heridas: \n\t1- Escoriación \n\t2- Cortante \n\t3- Contusa \n\t4- Punzante \nEquipo a utilizar para el control de las hemorragias: \n\t- Una manta limpia \n\t- Apósitos \n\t- Gasas \n\t- Vendas \n\t- Jabón \n\t- Agua</string>
+    <string name="MetodoControlHemorragiasTitle"><b>Método para el control de las hemorragias:</b></string>
+    <string name="MetodoControlHemorragias">Para este procedimiento aprenderemos el método P.E.P. \n<b>1. P</b>resión Directa \n<b>2- E</b>levación de extremidad (sin fracturas) \n<b>3- P</b>unto de presión \n\n\n</string>
+
 
 </resources>

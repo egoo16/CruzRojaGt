@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/viaaerea.png",
-        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xxhdpi/viaaerea.png"
-    },
-    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cross.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xxhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/viaaerea.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xxhdpi/viaaerea.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/prueba.png",
@@ -26,6 +26,10 @@
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hemorragia.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xxhdpi/hemorragia.png"
+    },
+    {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/lesson4picture.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-xxhdpi/lesson4picture.png"
     },
     {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-xxhdpi/lesson3picture.png",

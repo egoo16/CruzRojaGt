@@ -599,6 +599,8 @@
     <string name="AHA">\nLa Asociación Americana del Corazón (AHA por sus siglas en inglés), recomienda que si una persona está inconsciente, no respira y hay ausencia de pulso, hay que aplicar el método:</string>
     <string name="CAB"><b>C-A-B</b></string>
     <string name="Causas"><b>Causa de un atragantamiento: </b>\n-Obstrucción por la lengua. \n-Obstrucción por cuerpo extraño, (plásticos, comida, etc.).</string>
+    <string name="ClasesDeHemorragias">Externa e interna Tipos de Heridas: \n\t1- Escoriación \n\t2- Cortante \n\t3- Contusa \n\t4- Punzante \nEquipo a utilizar para el control de las hemorragias: \n\t- Una manta limpia \n\t- Apósitos \n\t- Gasas \n\t- Vendas \n\t- Jabón \n\t- Agua</string>
+    <string name="ClasesDeHemorragiasTitle"><b>Clases de hemorragias:</b></string>
     <string name="CuandoNoDarRCP">•Cuando existen signos obvios de muerte: \n\t–Rigor Mortis (aparece después de 4 a 6 horas después de que una persona ha fallecido) Rigidez muscular característica de los cadáveres. \n\t– Manchas de Lividez (Alteración en la que aparece una coloración rojiza o azulada debido a la congestión venosa. \n\t– Decapitación. \n•Orden de NO RCP. (Documento médico-legal).</string>
     <string name="CuandoNoDarRCPTitle"><b>Cuando no dar Reanimación Cardiopulmonar:</b></string>
     <string name="L1T1"><b>¿Qué son Primeros Auxilios?</b></string>
@@ -609,17 +611,23 @@
     <string name="L2T3">\n<b>Inconciencia</b></string>
     <string name="L2T4">Ausencia de respiración:</string>
     <string name="L3T1"><b>Atragantamiento:</b></string>
+    <string name="L4T1"><b>Hemorragias:</b></string>
     <string name="Lesson1">Evaluación Inicial</string>
     <string name="Lesson2">Reanimación Cardiopulmonar (RCP)</string>
     <string name="Lesson3">Maniobra de atragantamiento con compresiones abdominales</string>
+    <string name="Lesson4">Heridas y hemorragias</string>
     <string name="MES"><b>M</b>iro \t <b>E</b>scucho \t <b>S</b>iento</string>
     <string name="ManiobraInadecuada">•El paciente no está sobre una superficie dura. \n•No se ejecuta una adecuada extensión de la cabeza - elevación mandibular. \n•Sello inadecuado sobre la boca del paciente. \n•Las fosas nasales del paciente no están oprimidas y la boca del paciente no está lo suficientemente abierta durante la ventilación boca a boca.</string>
     <string name="ManiobraInadecuadaTitle"><b>Maniobra inadecuada de Reanimación Cardiopulmonar (RCP):</b></string>
     <string name="ManiobraRCP"><b>Maniobra de RCP con uno y dos reanimadores</b>\n  -Adulto 30 C. -2V. - 5C. \n  -Niño 30 C. -2V. -5C.</string>
     <string name="ManiobraRCPLactante"><b>Maniobra de RCP con uno y dos reanimadores –LACTANTE- </b>\nUn reanimador o Lactante \n\t  -30C. -2V. -5C. \nDos reanimadores o Lactante \n\t  -15C. -2V. -10 C.</string>
+    <string name="MetodoControlHemorragias">Para este procedimiento aprenderemos el método P.E.P. \n<b>1. P</b>resión Directa \n<b>2- E</b>levación de extremidad (sin fracturas) \n<b>3- P</b>unto de presión \n\n\n</string>
+    <string name="MetodoControlHemorragiasTitle"><b>Método para el control de las hemorragias:</b></string>
     <string name="PosicionDeRecuperacionTitle"><b>Posición de Recuperación:</b></string>
     <string name="PrimerosAuxilios">Primeros Auxilios son los procedimientos y técnicas que se aplican para dar ayuda inmediata, temporal y eficaz a una persona que ha sido víctima de un accidente o enfermedad repentina, antes de ser atendida por personal más especializado.</string>
     <string name="PuntoDeCompresionAdulto"><b>Punto de compresión en adulto: </b>\nSi la persona no tiene respiración, apoye el talón de la mano, dos dedos por encima del apéndice xifoides o mitad inferior del esternón, para realizar compresiones torácicas.\n</string>
+    <string name="ReconocimientoDeHemorragias"><b>Reconocimiento de tipos de hemorragias:</b></string>
+    <string name="ReconocimientoDeHemorragiasText"><b>Arterial: </b>color rojo brillante, su salida es intermitente, rápida y abundante. \n<b>Venosa: </b>color opaca, sin brillo, su salida es continua. \n<b>Capilar: </b>sangre de intercambio, sin movimiento, parece sudoración.</string>
     <string name="St1T1">Abrir vías aéreas</string>
     <string name="St2T1">Buena Ventilación\n </string>
     <string name="St3T1">Circulación \n </string>
@@ -684,6 +692,7 @@
         En este programa corregimos cada problema que se encuentre para garantizar la vida del paciente.\n\n\n\n</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hemorragias"><b>\n Detección de hemorragias:</b>\n\nDetectar cualquier hemorragia en una inspección realizada de cabeza a pies.</string>
+    <string name="hemorragiasLesson4">Es la salida de sangre de sus canales naturales entre ellos podemos mencionar: \n\t• ARTERIAL \n\t• VENOSA \n\t• CAPILAR</string>
     <string name="maniobraRCP2">\n\t -Profundidad de 6 cm. \n\t -Permita que se re- expanda el tórax. Con una frecuencia de 100 a 120 por minuto.</string>
     <string name="maniobraRCP3">\nUtilice únicamente el talón de la mano para hacer las compresiones torácicas.</string>
     <string name="paroCar">Se manifiesta cuando el corazón y la respiración se detienen, puede presentarse
@@ -734,7 +743,7 @@
         4-Hemorragias\n</string>
     <string name="procedimientoAtragantamiento">-Colóquese detrás de la persona y ofrezca su ayuda. \n -Posicione sus piernas una delante de la otra. \n -Indique al paciente que se incline ligeramente hacia adelante. \n -Indique al paciente que tosa e insista. \n -Coloque las manos en el abdomen de la víctima e inicie las compresiones abdominales. \n\nSe debe apoyar el puño con el pulgar sobre el abdomen, a nivel de la boca del estómago. \n\nSujete el puño con la otra mano y aplique una serie de compresiones rápidas hacia arriba. \nContinúe las compresiones abdominales hasta que se expulse el cuerpo extraño o el paciente pierda la conciencia.</string>
     <string name="procedimientoAtragantamientoPart2">\n-Si la víctima deja de responder llame inmediatamente al número de emergencia local, luego inicie Reanimación cardiopulmonar. \n-Si ve el objeto que obstruye el paso de aire extráigalo.\n\n\n</string>
-    <string name="procedimientoAtragantamientoTitle">Procedimiento:</string>
+    <string name="procedimientoAtragantamientoTitle"><b>Procedimiento:</b></string>
     <string name="search_menu_title">Search</string>
     <string name="sem">\n<b>Active el Sistema de Emergencias Médicas (S.E.M.)</b>\n
         Cuando evalúe a un paciente, ya sea que esté consciente, inconsciente o su estado es grave, pida inmediatamente una ambulancia o indíquele a alguna de las personas presentes en el lugar que por favor la solicite.\n\n

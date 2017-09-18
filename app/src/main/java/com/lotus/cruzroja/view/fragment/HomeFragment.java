@@ -55,7 +55,8 @@ public class HomeFragment extends Fragment {
         pictures.add(new Picture(R.drawable.primerosauxilios,"Lección 1","Evaluación Inicial"));
         pictures.add(new Picture(R.drawable.img2,"Lección 2","Reanimación Cardiopulmonar (RCP)"));
         pictures.add(new Picture(R.drawable.lesson3picture,"Lección 3","Maniobra de atragantamiento con compresiones abdominales"));
-        pictures.add(new Picture(R.drawable.salud04,"Lección 4","Heridas y hemorragias"));
+        pictures.add(new Picture(R.drawable.lesson4picture,"Lección 4","Heridas y hemorragias"));
+
 
         return pictures;
     }
