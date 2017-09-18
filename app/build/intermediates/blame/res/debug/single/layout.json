@@ -180,6 +180,10 @@
         "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout/activity_lesson5.xml",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/layout/activity_lesson5.xml"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout/notification_template_part_time.xml"
     },

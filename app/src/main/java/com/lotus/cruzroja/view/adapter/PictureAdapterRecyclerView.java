@@ -17,6 +17,7 @@ import com.lotus.cruzroja.view.Lesson1Activity;
 import com.lotus.cruzroja.view.Lesson2Activity;
 import com.lotus.cruzroja.view.Lesson3Activity;
 import com.lotus.cruzroja.view.Lesson4Activity;
+import com.lotus.cruzroja.view.Lesson5Activity;
 import com.lotus.cruzroja.view.model.Picture;
 
 import java.util.ArrayList;
@@ -73,11 +74,11 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
                         intent = new Intent(activity, Lesson4Activity.class);
                         LanzarAPP(intent,v);
                         break;
-                   /* case 4:
-                        intent = new Intent(activity, Lesson2Activity.class);
+                    case 4:
+                        intent = new Intent(activity, Lesson5Activity.class);
                         LanzarAPP(intent,v);
                         break;
-                    case 5:
+                   /* case 5:
                         break;
                     case 6:
                         break;

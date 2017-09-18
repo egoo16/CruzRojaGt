@@ -136,4 +136,11 @@
     <string name="MetodoControlHemorragias">Para este procedimiento aprenderemos el método P.E.P. \n<b>1. P</b>resión Directa \n<b>2- E</b>levación de extremidad (sin fracturas) \n<b>3- P</b>unto de presión \n\n\n</string>
 
 
+
+    <string name="Quemaduras">Son lesiones en los tejidos causadas por cambios bruscos de temperatura (aumento o disminución), por contacto con agentes químicos, exposición a radiación y contacto con corriente eléctrica; las cuales provocan alteraciones que pueden ir desde un pequeño enrojecimiento hasta una inflamación severa e incluso la destrucción completa de la zona afectada. \n\nLas quemaduras se clasifican en tres grados:</string>
+    <string name="QemaduraPrimerGrado"><b>Quemaduras de primer grado: </b>\n•En las quemaduras de primer grado es característica que sólo está dañada la primera capa de la piel llamada epidermis, la cual ocasiona dolor y enrojecimiento. \n•El tratamiento para este tipo de quemaduras consiste en aplicar abundante agua en la zona afectada.</string>
+    <string name="QemaduraSegundoGrado"><b>Quemaduras de segundo grado: </b>\n•Están comprometidas las dos capas de la piel epidermis y dermis. \n•su característica es que llegan a formar vesículas (ampollas), causan dolor y enrojecimiento. \n•El tratamiento para este tipo de quemaduras consiste en utilizar el mismo que para las de primer grado, pero se debe tener cuidado de no reventar las vesículas o ampollas.</string>
+    <string name="QemaduraTercerGrado"><b>Quemaduras de tercer grado: </b>\n•Es el tipo de quemadura más grave, la cual causa daños en todas las capas de la piel. \n•La parte afectada luce carbonizada. \n\nEste tipo de lesiones necesitan atención médica inmediata para su tratamiento.\n</string>
+
+
 </resources>
