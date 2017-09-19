@@ -276,6 +276,10 @@
         "source": "/home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/res/layout/bb_bottom_bar_item_shifting.xml"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout/activity_lesson7.xml",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/layout/activity_lesson7.xml"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },

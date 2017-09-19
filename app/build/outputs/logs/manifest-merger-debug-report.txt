@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:1-74:12
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:2:1-76:12
 	package
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManife
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
 		INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:5:5-72:38
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:5:5-74:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/lotus/.android/build-cache/220c9a9b36d3093d8548dc3716824d44fcfec3dc/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.0] /home/lotus/.android/build-cache/3121ff409c3d970393112ee19f852cc7db2a945c/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] /home/lotus/.android/build-cache/905838767a05e9a2808feb4f8c1219ce4c6c6eff/output/AndroidManifest.xml:29:5-20
@@ -114,6 +114,10 @@ ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManife
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:68:13-65
 	android:name
 		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:67:13-49
+activity#com.lotus.cruzroja.view.Lesson7Activity
+ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:73:9-67
+	android:name
+		ADDED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml:73:19-55
 uses-sdk
 INJECTED from /home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.roughike:bottom-bar:2.3.1] /home/lotus/.android/build-cache/2e58cbb397f01ffc75bb823ae698c853b451d677/output/AndroidManifest.xml:8:5-10:41

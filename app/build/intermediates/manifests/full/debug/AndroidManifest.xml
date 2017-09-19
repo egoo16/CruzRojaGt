@@ -80,6 +80,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".view.ContainerActivity" />
         </activity>
+        <activity android:name="com.lotus.cruzroja.view.Lesson7Activity" />
     </application>
 
 </manifest>

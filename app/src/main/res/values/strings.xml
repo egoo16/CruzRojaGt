@@ -151,4 +151,21 @@
     <string name="TiposVendajes"><b>a. Cabestrillo: </b>  Es un vendaje de sostén, especialmente para completar la inmovilización de miembros superiores o simplemente sostenerlos. \n\n<b>b. Circular: </b>  Se usa para fijar el extremo inicial y final de una inmovilización o para fijar un apósito, también para iniciar y/o finalizar un vendaje. Es de tipo compresivo. \n\n<b>c. Espiral: </b>  Se utiliza generalmente en extremidades, para sujetar gasas, apósitos o férulas en brazo, antebrazo, mano, muslo y pierna. Es de tipo compresivo. \n\n<b>d. Vendaje en ocho: </b>  Se utiliza cuando hay lesión en las articulaciones (tobillo, rodilla, hombro, codo, muñeca), ya que permite a éstas tener una cierta movilidad). \n\n<b>e. Capelina: </b>  Es un vendaje aplicado en pacientes cuya lesión, es en la cabeza y cumple la función de proteger y fijar apósitos. Es de tipo compresivo.</string>
 
 
+    <string name="Lesson7"><b>Fracturas e inmovilizaciones</b></string>
+    <string name="L7T1"><b>Fractura:</b></string>
+    <string name="fracturas">Es la perdida de continuidad del tejido óseo, es la ruptura de uno o varios huesos, producida por una fuerza directa o indirecta. \n\nLas fracturas se pueden conocer dos tipos: \n\t- Cerrada \n\t- Expuesta \n\n<b>Fractura cerrada</b> \nEsta fractura se manifiesta presentando deformidad, dolor, cambios de coloración en el área afectada, edema. \n\n<b>Fractura expuesta </b>\nEsta se manifiesta cuando el hueso se expone al exterior rompiendo la piel que recubre el lugar de la fractura.</string>
+    <string name="SignosYFracturas"><b>Signos y síntomas de una fractura: \n\nSignos:</b></string>
+    <string name="signosFracturas">-Cambios de coloración en el área afectada \n-Deformación en el área afectada \n-Acortamiento del área afectada \n-Edema</string>
+    <string name="SintomasTitle"><b>Síntomas:</b></string>
+    <string name="Sintomas">-Dolor \n-Sensibilidad al movimiento</string>
+    <string name="MaterialesFracturasTitle"><b>Materiales para tratar una fractura:</b></string>
+    <string name="MaterialesFracturas">-Cuadernos. \n-Tablillas livianas, cómodas y rígidas. \n-Cartón o periódico. \n-Vendas de gasa o pañoletas.</string>
+    <string name="TratamientoFracturasTitle"><b>Tratamiento para fracturas:</b></string>
+    <string name="TratamientoFracturas">-Inmovilizar la parte afectada. \n-En la fractura expuesta, aplicar una gasa seca o una toalla limpia. \n-Traslade a la víctima a un centro hospitalario. \n-Todo golpe en caso de duda tratar como fractura existente.</string>
+    <string name="FracturasColumnaTitle"><b>Cómo tratar fracturas en columna:</b></string>
+    <string name="FracturasColumna">-No mueva a la persona. \n-Inmovilice la cabeza. \n-Si se va a movilizar se tiene que hacer en un solo bloque. \n-Coloque al paciente en una superficie plana, dura y fácil de movilizar. \n-Traslade a la víctima a un hospital sin hacer más daño.</string>
+    <string name="NormasFracturasTitle"><b>Normas para tratar una fractura</b></string>
+    <string name="NormasFracturas">-No mover a los afectados a menos que sea indispensable. \n-No mover la parte afectada e inmovilizar como se encuentre la extremidad. \n-Sospechar siempre de una fractura. \n-Traslado a un centro hospitalario para rayos X.</string>
+
+
 </resources>
