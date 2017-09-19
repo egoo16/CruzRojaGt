@@ -118,6 +118,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize_Title2"
                 android:text="@string/evaluacion"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/horizontal_activity_padding"/>
@@ -131,6 +132,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize_Title2"
                 android:text="@string/procedimiento"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/horizontal_activity_padding"/>
@@ -143,6 +145,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize_Title2"
                 android:text="@string/sem"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/horizontal_activity_padding"/>

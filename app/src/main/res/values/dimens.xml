@@ -12,6 +12,7 @@
     <dimen name="textSize_TitleDetail">25sp</dimen>
     <dimen name="height_divider">1dp</dimen>
     <dimen name="textSize_Title2">15sp</dimen>
+    <dimen name="Padding_Left">25dp</dimen>
 
 
 </resources>

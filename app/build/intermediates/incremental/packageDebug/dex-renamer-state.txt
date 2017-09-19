@@ -1,4 +1,4 @@
-#Mon Sep 18 03:27:31 CST 2017
+#Mon Sep 18 18:04:48 CST 2017
 base.0=/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_420e8e61f7f09965df485aa601c59a0742fbb337
 renamed.1=classes.dex
 renamed.0=classes2.dex

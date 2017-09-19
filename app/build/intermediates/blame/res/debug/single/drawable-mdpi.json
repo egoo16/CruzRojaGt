@@ -140,6 +140,10 @@
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/circulacion.png"
     },
     {
+        "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/lesson6picture.png",
+        "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/lesson6picture.png"
+    },
+    {
         "merged": "/home/lotus/AndroidStudioProjects/CruzRoja/app/build/intermediates/res/merged/debug/drawable-mdpi/atragantamiento.png",
         "source": "/home/lotus/AndroidStudioProjects/CruzRoja/app/src/main/res/drawable-mdpi/atragantamiento.png"
     },

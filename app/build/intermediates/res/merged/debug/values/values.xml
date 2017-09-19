@@ -410,6 +410,7 @@
             <enum name="screen" value="15"/>
         </attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
+    <dimen name="Padding_Left">25dp</dimen>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -616,6 +617,7 @@
     <string name="Lesson2">Reanimación Cardiopulmonar (RCP)</string>
     <string name="Lesson3">Maniobra de atragantamiento con compresiones abdominales</string>
     <string name="Lesson4">Heridas y hemorragias</string>
+    <string name="Lesson6">Vendajes</string>
     <string name="MES"><b>M</b>iro \t <b>E</b>scucho \t <b>S</b>iento</string>
     <string name="ManiobraInadecuada">•El paciente no está sobre una superficie dura. \n•No se ejecuta una adecuada extensión de la cabeza - elevación mandibular. \n•Sello inadecuado sobre la boca del paciente. \n•Las fosas nasales del paciente no están oprimidas y la boca del paciente no está lo suficientemente abierta durante la ventilación boca a boca.</string>
     <string name="ManiobraInadecuadaTitle"><b>Maniobra inadecuada de Reanimación Cardiopulmonar (RCP):</b></string>
@@ -628,14 +630,17 @@
     <string name="PuntoDeCompresionAdulto"><b>Punto de compresión en adulto: </b>\nSi la persona no tiene respiración, apoye el talón de la mano, dos dedos por encima del apéndice xifoides o mitad inferior del esternón, para realizar compresiones torácicas.\n</string>
     <string name="QemaduraPrimerGrado"><b>Quemaduras de primer grado: </b>\n•En las quemaduras de primer grado es característica que sólo está dañada la primera capa de la piel llamada epidermis, la cual ocasiona dolor y enrojecimiento. \n•El tratamiento para este tipo de quemaduras consiste en aplicar abundante agua en la zona afectada.</string>
     <string name="QemaduraSegundoGrado"><b>Quemaduras de segundo grado: </b>\n•Están comprometidas las dos capas de la piel epidermis y dermis. \n•su característica es que llegan a formar vesículas (ampollas), causan dolor y enrojecimiento. \n•El tratamiento para este tipo de quemaduras consiste en utilizar el mismo que para las de primer grado, pero se debe tener cuidado de no reventar las vesículas o ampollas.</string>
-    <string name="QemaduraTercerGrado"><b>Quemaduras de tercer grado: </b>\n•Es el tipo de quemadura más grave, la cual causa daños en todas las capas de la piel. \n•La parte afectada luce carbonizada. \n\nEste tipo de lesiones necesitan atención médica inmediata para su tratamiento.\n\n\n</string>
+    <string name="QemaduraTercerGrado"><b>Quemaduras de tercer grado: </b>\n•Es el tipo de quemadura más grave, la cual causa daños en todas las capas de la piel. \n•La parte afectada luce carbonizada. \n\nEste tipo de lesiones necesitan atención médica inmediata para su tratamiento.\n</string>
     <string name="Quemaduras">Son lesiones en los tejidos causadas por cambios bruscos de temperatura (aumento o disminución), por contacto con agentes químicos, exposición a radiación y contacto con corriente eléctrica; las cuales provocan alteraciones que pueden ir desde un pequeño enrojecimiento hasta una inflamación severa e incluso la destrucción completa de la zona afectada. \n\nLas quemaduras se clasifican en tres grados:</string>
     <string name="ReconocimientoDeHemorragias"><b>Reconocimiento de tipos de hemorragias:</b></string>
     <string name="ReconocimientoDeHemorragiasText"><b>Arterial: </b>color rojo brillante, su salida es intermitente, rápida y abundante. \n<b>Venosa: </b>color opaca, sin brillo, su salida es continua. \n<b>Capilar: </b>sangre de intercambio, sin movimiento, parece sudoración.</string>
+    <string name="Reglas"><b>Reglas para realizar un vendaje: </b>\n\n- La venda debe de colocarse con el rollo de la venda hacia fuera de la zona que vamos a vendar. \n- Antes de empezar cualquier vendaje se deben de dar dos vueltas de seguridad para que no se corra.\n-Se debe iniciar de la parte distal o más lejana al corazón, a la más cercana para evitar la acumulación de sangre. \n-Siempre que inmovilizamos una zona debido a alguna lesión, se hace incluyendo las articulaciones cercanas para evitar más daño y darle soporte. \n-De ser posible evitar vendar los dedos de pies y manos.</string>
     <string name="St1T1">Abrir vías aéreas</string>
     <string name="St2T1">Buena Ventilación\n </string>
     <string name="St3T1">Circulación \n </string>
     <string name="TiposAtragantamiento"><b>Parcial y total</b> \n<b>1. Parcial:</b> se manifiesta cuando el paso de aire está disminuido. \n<b>2. Total: </b>en la que no existe paso de aire.</string>
+    <string name="TiposVendajes"><b>a. Cabestrillo: </b>  Es un vendaje de sostén, especialmente para completar la inmovilización de miembros superiores o simplemente sostenerlos. \n\n<b>b. Circular: </b>  Se usa para fijar el extremo inicial y final de una inmovilización o para fijar un apósito, también para iniciar y/o finalizar un vendaje. Es de tipo compresivo. \n\n<b>c. Espiral: </b>  Se utiliza generalmente en extremidades, para sujetar gasas, apósitos o férulas en brazo, antebrazo, mano, muslo y pierna. Es de tipo compresivo. \n\n<b>d. Vendaje en ocho: </b>  Se utiliza cuando hay lesión en las articulaciones (tobillo, rodilla, hombro, codo, muñeca), ya que permite a éstas tener una cierta movilidad). \n\n<b>e. Capelina: </b>  Es un vendaje aplicado en pacientes cuya lesión, es en la cabeza y cumple la función de proteger y fijar apósitos. Es de tipo compresivo.</string>
+    <string name="TiposVendajesTitle"><b>Tipos de Vendajes:</b></string>
     <string name="Total"><b>Total: </b>\nCuando NO hay paso de aire, el paciente es incapaz de hablar o respirar. El paciente mostrará la señal universal de asfixia, en donde la víctima se toma el cuello y muestra signos de angustia.</string>
     <string name="a">A-</string>
     <string name="a1">\n <b> Utilizando estas dos técnicas: </b> \n1- Extensión de la cabeza y elevación del mentón (persona no lesionada).</string>
@@ -694,6 +699,8 @@
     <string name="evaluacionI"><b>\n\nEvaluación Inicial:</b>\n\n
         En la evaluación inicial se debe de controlar todo problema que amenace la vida del paciente a corto plazo.
         En este programa corregimos cada problema que se encuentre para garantizar la vida del paciente.\n\n\n\n</string>
+    <string name="funcionesVendajes"><b>Funciones de los vendajes:</b></string>
+    <string name="funcionesVendajesDetail"><b>• Proteger: </b>\nSe utilizan principalmente para sujetar áreas afectadas y cubrir o proteger áreas ya tratadas como control de hemorragias y es el mejor analgésico para una lesión. \n\n<b>• Presionar: </b>\nPodemos utilizarlo para ejercer presión sobre un punto sangrante con el fin de cortar una hemorragia. \n\n<b>• Fijación: </b>\nEstá indicado siempre que se persiga una inmovilización completa de un segmento corporal.</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hemorragias"><b>\n Detección de hemorragias:</b>\n\nDetectar cualquier hemorragia en una inspección realizada de cabeza a pies.</string>
     <string name="hemorragiasLesson4">Es la salida de sangre de sus canales naturales entre ellos podemos mencionar: \n\t• ARTERIAL \n\t• VENOSA \n\t• CAPILAR</string>
@@ -761,6 +768,7 @@
     <string name="title_activity_referencia">No se toca</string>
     <string name="title_card">Aplicación de RCP</string>
     <string name="transicionName_picture">transicionnamepicture</string>
+    <string name="vendajes">Los vendajes son procedimientos hechos con tiras de tela, lienzo y otros materiales, con el fin de envolver una extremidad y otras partes del cuerpo humano lesionadas. Se utilizan principalmente en heridas, hemorragias, fracturas, esguinces, luxaciones, sujeción de apósitos, entablillados y dar apoyo a las articulaciones. \n\nEn casos de emergencia podemos formar vendas con diferentes materiales, ejemplo: corbatas, bufandas, tiras de tela, sabanas, toallas, entre otros. \n\nLas vendas pueden ser de dos tipos: \n\t1- De Rollo \n\t2- Triangulares \n\n•Las vendas son lienzos en forma de tiras, estas varían en tamaño y en calidad del material. \n\n•Las más utilizadas son las siguientes : \n\t- Venda de gasa \n\t- Venda elástica (crepe) \n\t- Venda de algodón \n\t- Venda triangulares \n\t- Rollo de micropore</string>
     <string name="ventilaciones"><b>Ventilaciones:</b>\n • Deben ser lentas y profundas que duren un (1) segundo, sellando las fosas nasales y utilizando un dispositivo que lo proteja.\n • Luego de dar la primera ventilación debe esperar un (1) segundo para que el aire ingresado salga.\n • La segunda ventilación será igual, con la diferencia que al finalizar deberá iniciar inmediatamente con las compresiones.</string>
     <string name="viaaerea"><b>A</b> = Abrir la vía aérea \n</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

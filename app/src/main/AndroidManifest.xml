@@ -63,6 +63,12 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".view.ContainerActivity" />
         </activity>
-    </application>
+        <activity
+            android:name=".view.Lesson6Activity"
+            android:parentActivityName=".view.ContainerActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ContainerActivity" />
+        </activity>    </application>
 
 </manifest>
