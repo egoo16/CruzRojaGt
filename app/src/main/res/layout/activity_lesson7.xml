@@ -53,129 +53,213 @@
                 android:id="@+id/userNameDetail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_TitleDetail"
-                android:text="@string/Lesson7"
                 android:paddingLeft="@dimen/horizontal_activity_padding"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/Lesson7"
+                android:textSize="@dimen/textSize_TitleDetail" />
+
             <View
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/height_divider"
-                android:background="@android:color/darker_gray"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/L7T1"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/fracturas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
+                android:background="@android:color/darker_gray" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:text="@string/L7T1"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:paddingRight="@dimen/vertical_activity_padding"
                 android:text="@string/SignosYFracturas"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/horizontal_activity_padding"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/fracturas" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/Padding_Left"
                 android:text="@string/signosFracturas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/Padding_Left"/>
+                android:textSize="@dimen/textSize_Title2" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/SintomasTitle"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/Sintomas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/Padding_Left"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/MaterialesFracturasTitle"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/MaterialesFracturas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/Padding_Left"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/TratamientoFracturasTitle"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/TratamientoFracturas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/Padding_Left"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/FracturasColumnaTitle"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/horizontal_activity_padding"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
+                android:text="@string/SintomasTitle"
+                android:textSize="@dimen/textSize_Title2" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/FracturasColumna"
                 android:paddingBottom="@dimen/horizontal_activity_padding"
                 android:paddingLeft="@dimen/Padding_Left"
-                android:paddingRight="@dimen/vertical_activity_padding"/>
+                android:text="@string/Sintomas"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:text="@string/MaterialesFracturasTitle"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/Padding_Left"
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/MaterialesFracturas"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:text="@string/TratamientoFracturasTitle"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/Padding_Left"
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/TratamientoFracturas"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/FracturasColumnaTitle"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/Padding_Left"
+                android:paddingRight="@dimen/vertical_activity_padding"
+                android:text="@string/FracturasColumna"
+                android:textSize="@dimen/textSize_Title2" />
+
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_gravity="center_horizontal">
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical">
+
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/fracturaencolumna"/>
+                    android:background="@drawable/fracturaencolumna" />
             </LinearLayout>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/NormasFracturasTitle"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/horizontal_activity_padding"/>
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textSize="@dimen/textSize_Title2"
-                android:text="@string/NormasFracturas"
-                android:paddingBottom="@dimen/horizontal_activity_padding"
-                android:paddingLeft="@dimen/Padding_Left"/>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/horizontal_activity_padding"
+                android:text="@string/NormasFracturasTitle"
+                android:textSize="@dimen/textSize_Title2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/horizontal_activity_padding"
+                android:paddingLeft="@dimen/Padding_Left"
+                android:text="@string/NormasFracturas"
+                android:textSize="@dimen/textSize_Title2" />
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/horizontal_activity_padding">
+
+                <ImageView
+                    android:id="@+id/image0701"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="48dp"
+                    android:background="@drawable/image0701"/>
+                <ImageView
+                    android:id="@+id/image0703"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/image0701"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="16dp"
+                    android:background="@drawable/image0703"
+                    android:layout_toLeftOf="@+id/image0706"
+                    android:layout_toStartOf="@+id/image0706" />
+                <ImageView
+                    android:id="@+id/image0704"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/image0704"
+                    android:layout_below="@+id/image0703"
+                    android:layout_toRightOf="@+id/image0703"
+                    android:layout_toEndOf="@+id/image0703" />
+                <ImageView
+                    android:id="@+id/image0702"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="@drawable/image0702"/>
+                <ImageView
+                    android:id="@+id/image0705"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/image0705"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="31dp" />
+                <ImageView
+                    android:id="@+id/image0707"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/image0708"
+                    android:background="@drawable/image0707" />
+                <ImageView
+                    android:id="@+id/image0708"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/image0708"
+                    android:layout_below="@+id/image0706"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/image0706"
+                    android:id="@+id/image0706"
+                    android:layout_above="@+id/image0704"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
 
         </LinearLayout>
 

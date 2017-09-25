@@ -20,6 +20,7 @@ import com.lotus.cruzroja.view.Lesson4Activity;
 import com.lotus.cruzroja.view.Lesson5Activity;
 import com.lotus.cruzroja.view.Lesson6Activity;
 import com.lotus.cruzroja.view.Lesson7Activity;
+import com.lotus.cruzroja.view.Lesson8Activity;
 import com.lotus.cruzroja.view.model.Picture;
 
 import java.util.ArrayList;
@@ -88,8 +89,10 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
                         intent = new Intent(activity, Lesson7Activity.class);
                         LanzarAPP(intent,v);
                         break;
-                   /* case 7:
-                        break;*/
+                    case 7:
+                        intent = new Intent(activity, Lesson8Activity.class);
+                        LanzarAPP(intent,v);
+                        break;
                 }
 
 
@@ -97,7 +100,7 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
         });
     }
 
-    public void LanzarAPP(Intent intent, View v)
+    private void LanzarAPP(Intent intent, View v)
     {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP)
         {

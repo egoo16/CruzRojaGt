@@ -59,7 +59,7 @@ public class HomeFragment extends Fragment {
         pictures.add(new Picture(R.drawable.lesson5picture,"Lección 5","Quemaduras"));
         pictures.add(new Picture(R.drawable.lesson6picture,"Lección 6","Vendajes"));
         pictures.add(new Picture(R.drawable.lesson7picture,"Lección 7","Fracturas e inmovilizaciones"));
-
+        pictures.add(new Picture(R.drawable.lesson8picture,"Lección 8","Movilización de pacientes"));
 
         return pictures;
     }

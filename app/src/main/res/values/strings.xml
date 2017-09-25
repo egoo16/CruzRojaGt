@@ -168,4 +168,24 @@
     <string name="NormasFracturas">-No mover a los afectados a menos que sea indispensable. \n-No mover la parte afectada e inmovilizar como se encuentre la extremidad. \n-Sospechar siempre de una fractura. \n-Traslado a un centro hospitalario para rayos X.</string>
 
 
+    <string name="Lesson8">Movilización de pacientes</string>
+    <string name="L8T1"><b>Movilizaciones:</b></string>
+    <string name="MovilizacionesP1">-Son las técnicas y maniobras de forma improvisada para la estabilización de una víctima, para evitar, agravar y complicar sus lesiones. \n-Se puede realizar en cualquier superficie rígida para extremidades u otras partes del cuerpo lesionadas, cuyo propósito es prevenir los movimientos de las partes afectadas. \n-Cuando realice un método de transporte para evacuación de víctimas de una zona de riesgo a un sitio seguro debe tomar en cuenta:</string>
+    <string name="MetodosTransporte">- Peso del paciente \n- Tipo de terreno \n- Distancia a recorrer \n- Situación actual \n- Material disponible</string>
+    <string name="MovilizacionesP2">-Recuerde que usted es la persona más importante al momento de actuar durante un incidente, evite en todo momento las lesiones.</string>
+    <string name="TecnicasMovilizacion"><b>Técnicas de movilización y transporte:</b></string>
+
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">Correo Invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña Incorrecta</string>
+    <string name="error_field_required">Campo Requerido</string>
+    <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar correo electrónico
+        terminaciones"
+    </string>
+
+
 </resources>

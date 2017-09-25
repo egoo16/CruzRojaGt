@@ -485,6 +485,8 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbarlayout_height">200dp</dimen>
     <dimen name="bb_default_elevation">8dp</dimen>
     <dimen name="bb_fake_shadow_height">4dp</dimen>
@@ -616,12 +618,14 @@
     <string name="L3T1"><b>Atragantamiento:</b></string>
     <string name="L4T1"><b>Hemorragias:</b></string>
     <string name="L7T1"><b>Fractura:</b></string>
+    <string name="L8T1"><b>Movilizaciones:</b></string>
     <string name="Lesson1">Evaluación Inicial</string>
     <string name="Lesson2">Reanimación Cardiopulmonar (RCP)</string>
     <string name="Lesson3">Maniobra de atragantamiento con compresiones abdominales</string>
     <string name="Lesson4">Heridas y hemorragias</string>
     <string name="Lesson6">Vendajes</string>
     <string name="Lesson7"><b>Fracturas e inmovilizaciones</b></string>
+    <string name="Lesson8">Movilización de pacientes</string>
     <string name="MES"><b>M</b>iro \t <b>E</b>scucho \t <b>S</b>iento</string>
     <string name="ManiobraInadecuada">•El paciente no está sobre una superficie dura. \n•No se ejecuta una adecuada extensión de la cabeza - elevación mandibular. \n•Sello inadecuado sobre la boca del paciente. \n•Las fosas nasales del paciente no están oprimidas y la boca del paciente no está lo suficientemente abierta durante la ventilación boca a boca.</string>
     <string name="ManiobraInadecuadaTitle"><b>Maniobra inadecuada de Reanimación Cardiopulmonar (RCP):</b></string>
@@ -631,6 +635,9 @@
     <string name="MaterialesFracturasTitle"><b>Materiales para tratar una fractura:</b></string>
     <string name="MetodoControlHemorragias">Para este procedimiento aprenderemos el método P.E.P. \n<b>1. P</b>resión Directa \n<b>2- E</b>levación de extremidad (sin fracturas) \n<b>3- P</b>unto de presión \n\n\n</string>
     <string name="MetodoControlHemorragiasTitle"><b>Método para el control de las hemorragias:</b></string>
+    <string name="MetodosTransporte">- Peso del paciente \n- Tipo de terreno \n- Distancia a recorrer \n- Situación actual \n- Material disponible</string>
+    <string name="MovilizacionesP1">-Son las técnicas y maniobras de forma improvisada para la estabilización de una víctima, para evitar, agravar y complicar sus lesiones. \n-Se puede realizar en cualquier superficie rígida para extremidades u otras partes del cuerpo lesionadas, cuyo propósito es prevenir los movimientos de las partes afectadas. \n-Cuando realice un método de transporte para evacuación de víctimas de una zona de riesgo a un sitio seguro debe tomar en cuenta:</string>
+    <string name="MovilizacionesP2">-Recuerde que usted es la persona más importante al momento de actuar durante un incidente, evite en todo momento las lesiones.</string>
     <string name="NormasFracturas">-No mover a los afectados a menos que sea indispensable. \n-No mover la parte afectada e inmovilizar como se encuentre la extremidad. \n-Sospechar siempre de una fractura. \n-Traslado a un centro hospitalario para rayos X.</string>
     <string name="NormasFracturasTitle"><b>Normas para tratar una fractura</b></string>
     <string name="PosicionDeRecuperacionTitle"><b>Posición de Recuperación:</b></string>
@@ -649,6 +656,7 @@
     <string name="St1T1">Abrir vías aéreas</string>
     <string name="St2T1">Buena Ventilación\n </string>
     <string name="St3T1">Circulación \n </string>
+    <string name="TecnicasMovilizacion"><b>Técnicas de movilización y transporte:</b></string>
     <string name="TiposAtragantamiento"><b>Parcial y total</b> \n<b>1. Parcial:</b> se manifiesta cuando el paso de aire está disminuido. \n<b>2. Total: </b>en la que no existe paso de aire.</string>
     <string name="TiposVendajes"><b>a. Cabestrillo: </b>  Es un vendaje de sostén, especialmente para completar la inmovilización de miembros superiores o simplemente sostenerlos. \n\n<b>b. Circular: </b>  Se usa para fijar el extremo inicial y final de una inmovilización o para fijar un apósito, también para iniciar y/o finalizar un vendaje. Es de tipo compresivo. \n\n<b>c. Espiral: </b>  Se utiliza generalmente en extremidades, para sujetar gasas, apósitos o férulas en brazo, antebrazo, mano, muslo y pierna. Es de tipo compresivo. \n\n<b>d. Vendaje en ocho: </b>  Se utiliza cuando hay lesión en las articulaciones (tobillo, rodilla, hombro, codo, muñeca), ya que permite a éstas tener una cierta movilidad). \n\n<b>e. Capelina: </b>  Es un vendaje aplicado en pacientes cuya lesión, es en la cabeza y cumple la función de proteger y fijar apósitos. Es de tipo compresivo.</string>
     <string name="TiposVendajesTitle"><b>Tipos de Vendajes:</b></string>
@@ -689,6 +697,8 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
     <string name="app_name">CruzRoja</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="atragantamiento">El atragantamiento se produce cuando un cuerpo extraño obstruye el paso de aire hacia los pulmones. El atragantamiento puede ser de dos tipos:</string>
@@ -702,6 +712,10 @@
     <string name="compresionLactante"><b>Punto de compresión en Lactante: </b>\nSi el lactante no tiene respiración, apoye dos dedos al centro y debajo de la línea intermamaria, para realizar compresiones torácicas.\n</string>
     <string name="ejecuciondelaManiobra"><b>Ejecución de la maniobra:</b>\nSi la persona está inconsciente, no tiene respiración y no tiene pulso, administre:\n \t<b>30 compresiones, 2 ventilaciones, durante 5 ciclos.</b></string>
     <string name="equipoProteccion"><b>Equipo de protección personal:</b> \nGuantes \nLentes \nMascarilla \n</string>
+    <string name="error_field_required">Campo Requerido</string>
+    <string name="error_incorrect_password">Contraseña Incorrecta</string>
+    <string name="error_invalid_email">Correo Invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
     <string name="evaluacion">\n<b> Evaluación de la escena: </b> \n
         Fuentes de información para realizar la evaluación inicial:\n\n
         \t\t- La escena por sí misma.\n
@@ -728,6 +742,9 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar correo electrónico
+        terminaciones"
+    </string>
     <string name="posicionCorrectaTitle">\nPosición correcta:</string>
     <string name="preguntas"><b>¿Yo como primera respuesta frente a un accidente?</b>\n ¿ Qué debo saber?\n ¿Qué puedo hacer?\n ¿Qué no debo hacer?\n\n <b>Prioridades de atención:</b>\n 1-Mantener la calma\n 2-Activar la cadena de sobrevivencia\n 3-Evaluar seguridad de la escena\n 4-Cuidar nuestra seguridad\n\n
         <b>Cadena de sobrevivencia:</b>\n
@@ -769,6 +786,8 @@
     <string name="procedimientoAtragantamiento">-Colóquese detrás de la persona y ofrezca su ayuda. \n -Posicione sus piernas una delante de la otra. \n -Indique al paciente que se incline ligeramente hacia adelante. \n -Indique al paciente que tosa e insista. \n -Coloque las manos en el abdomen de la víctima e inicie las compresiones abdominales. \n\nSe debe apoyar el puño con el pulgar sobre el abdomen, a nivel de la boca del estómago. \n\nSujete el puño con la otra mano y aplique una serie de compresiones rápidas hacia arriba. \nContinúe las compresiones abdominales hasta que se expulse el cuerpo extraño o el paciente pierda la conciencia.</string>
     <string name="procedimientoAtragantamientoPart2">\n-Si la víctima deja de responder llame inmediatamente al número de emergencia local, luego inicie Reanimación cardiopulmonar. \n-Si ve el objeto que obstruye el paso de aire extráigalo.\n\n\n</string>
     <string name="procedimientoAtragantamientoTitle"><b>Procedimiento:</b></string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
     <string name="search_menu_title">Search</string>
     <string name="sem">\n<b>Active el Sistema de Emergencias Médicas (S.E.M.)</b>\n
         Cuando evalúe a un paciente, ya sea que esté consciente, inconsciente o su estado es grave, pida inmediatamente una ambulancia o indíquele a alguna de las personas presentes en el lugar que por favor la solicite.\n\n

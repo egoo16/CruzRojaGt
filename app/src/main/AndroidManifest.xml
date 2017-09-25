@@ -76,6 +76,14 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".view.ContainerActivity" />
-        </activity>    </application>
+        </activity>
+        <activity
+            android:name=".view.Lesson8Activity"
+            android:parentActivityName=".view.ContainerActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".view.ContainerActivity" />
+        </activity>
+    </application>
 
 </manifest>

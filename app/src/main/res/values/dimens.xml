@@ -13,6 +13,8 @@
     <dimen name="height_divider">1dp</dimen>
     <dimen name="textSize_Title2">15sp</dimen>
     <dimen name="Padding_Left">25dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
 
 
 </resources>
